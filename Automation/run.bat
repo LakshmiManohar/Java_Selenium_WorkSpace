@@ -1,0 +1,1 @@
+java -cp "D:\workspace\Automation\lib\jcommander-1.27.jar;D:\workspace\Automation\lib\testng-6.9.13.6.jar;D:\workspace\Automation\bin;D:\workspace\Automation\lib\selenium-server-standalone-2.53.1.jar" org.testng.TestNG testng.xml

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test01]">
+  <test name="Testname01(failed)">
+    <classes>
+      <class name="selenium.WebElement_Spicejet2">
+        <methods>
+          <include name="test01"/>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- selenium.WebElement_Spicejet2 -->
+    </classes>
+  </test> <!-- Testname01(failed) -->
+</suite> <!-- Failed suite [Test01] -->

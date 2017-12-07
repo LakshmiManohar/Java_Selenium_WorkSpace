@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mavensuite" duration-ms="49210" started-at="2016-10-27T14:04:20Z" finished-at="2016-10-27T14:05:09Z">
+    <groups>
+    </groups>
+    <test name="maventest" duration-ms="49210" started-at="2016-10-27T14:04:20Z" finished-at="2016-10-27T14:05:09Z">
+      <class name="selenium.OpenurlTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:selenium.OpenurlTest@5ba23b66]" name="beforeTest" is-config="true" duration-ms="38180" started-at="2016-10-27T19:34:20Z" finished-at="2016-10-27T19:34:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:selenium.OpenurlTest@5ba23b66]" name="f" duration-ms="8659" started-at="2016-10-27T19:34:58Z" finished-at="2016-10-27T19:35:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:selenium.OpenurlTest@5ba23b66]" name="afterTest" is-config="true" duration-ms="2338" started-at="2016-10-27T19:35:06Z" finished-at="2016-10-27T19:35:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- selenium.OpenurlTest -->
+    </test> <!-- maventest -->
+  </suite> <!-- mavensuite -->
+</testng-results>

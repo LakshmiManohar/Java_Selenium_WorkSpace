@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53942" started-at="2016-12-25T12:23:35Z" finished-at="2016-12-25T12:24:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53942" started-at="2016-12-25T12:23:35Z" finished-at="2016-12-25T12:24:29Z">
+      <class name="Android.DataDriven_Retesting">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Android.DataDriven_Retesting@68c4039c]" name="beforeTest" is-config="true" duration-ms="16867" started-at="2016-12-25T17:53:35Z" finished-at="2016-12-25T17:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Android.DataDriven_Retesting@68c4039c]" name="f" duration-ms="37031" started-at="2016-12-25T17:53:52Z" finished-at="2016-12-25T17:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Android.DataDriven_Retesting@68c4039c]" name="afterTest" is-config="true" duration-ms="0" started-at="2016-12-25T17:54:29Z" finished-at="2016-12-25T17:54:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Android.DataDriven_Retesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

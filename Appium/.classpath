@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Appium/Lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Program Files/Selenium_library/jxl-2.6.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

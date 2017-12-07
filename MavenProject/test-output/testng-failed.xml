@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mavensuite]">
+  <test name="maventest(failed)">
+    <classes>
+      <class name="selenium.Openurl">
+        <methods>
+          <include name="f"/>
+          <include name="beforeTest"/>
+        </methods>
+      </class> <!-- selenium.Openurl -->
+    </classes>
+  </test> <!-- maventest(failed) -->
+</suite> <!-- Failed suite [mavensuite] -->

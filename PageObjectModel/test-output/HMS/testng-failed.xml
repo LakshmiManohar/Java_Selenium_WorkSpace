@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [HMS]">
+  <test name="Test-HMS_1(failed)">
+    <classes>
+      <class name="hms_pom.Registration_Script">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- hms_pom.Registration_Script -->
+    </classes>
+  </test> <!-- Test-HMS_1(failed) -->
+  <test name="Test-HMS_2(failed)">
+    <classes>
+      <class name="hms_pom.Admission_Script">
+        <methods>
+          <include name="test01"/>
+        </methods>
+      </class> <!-- hms_pom.Admission_Script -->
+    </classes>
+  </test> <!-- Test-HMS_2(failed) -->
+</suite> <!-- Failed suite [HMS] -->

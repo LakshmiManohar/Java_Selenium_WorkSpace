@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "HMS">
+
+<test name = "Test-HMS_1">
+<classes>
+<class name = "hms_pom.Registration_Script"/>
+</classes>
+</test>
+<test name = "Test-HMS_2">
+<classes>
+<class name = "hms_pom.Admission_Script"/>
+</classes>
+</test>
+</suite>
